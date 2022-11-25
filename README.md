@@ -4,10 +4,6 @@ Repositório criado a partir de um Fork do repósitorio do Docker ([awesome-comp
 
 > ReadME inspirado no mesmo repositório e projeto do awesome-compose
 
-## 📃 Conceitos do Projeto
-
-...
-
 ## 🔨 Setup do Projeto
 
 Primeiro confira que o Docker e o Docker Compose estão instalados:

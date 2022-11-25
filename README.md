@@ -1,4 +1,4 @@
-# 🐋 Exemplo do uso do Docker Compose com React/Rust/PostegreSQL
+# 🐋 Exemplo do uso do Docker Compose com React/Rust/PostgreSQL
 
 Repositório criado a partir de um Fork do repósitorio do Docker ([awesome-compose](https://github.com/docker/awesome-compose)), dando destaque ao exemplo do Docker Compose com uma aplicação em React, Rust e PostgreSQL
 
